@@ -1,0 +1,40 @@
+@charset "utf-8";
+ #apdiv2{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 30px;
+	position: absolute;
+	width: 706px;
+	height: 22px;
+	top: 148px;
+	z-index: 1;
+	left: 408px;
+	font-weight: normal;
+}
+ #apdiv1{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	position: absolute;
+	width: 706px;
+	height: 294px;
+	top: 201px;
+	left: 410;
+	z-index: 1;
+	left: 410px;
+}
+#apdiv3{
+	font-family: Verdana, Geneva, sans-serif;
+	position: absolute;
+	width: 706px;
+	height: 64px;
+	top: 212px;
+	z-index: 1;
+	left: 450px;
+	font-size: 15px;
+}
+.aboutPannel {
+	font-family: Verdana, Geneva, sans-serif;
+}
+#apDiv3 {
+	font-weight: normal;
+}
